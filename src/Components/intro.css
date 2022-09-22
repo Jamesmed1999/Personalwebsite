@@ -1,0 +1,18 @@
+#test
+{
+    color:chartreuse;
+    text-align: left;
+    font-size: 150px;
+    float:left;
+    
+}
+#test2
+{
+    color:chartreuse;
+    text-align: right;
+    font-size: 50px; 
+    
+}
+body{
+    background-color:burlywood;
+}
