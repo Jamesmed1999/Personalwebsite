@@ -13,6 +13,11 @@
     font-size: 50px; 
     
 }
-body{
+#intro{
     background-color:burlywood;
+    height: 700px;
+}
+#bdl{
+    background-color:rgb(119, 119, 119);
+    height: 700px;
 }
